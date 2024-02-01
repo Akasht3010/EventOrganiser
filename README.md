@@ -37,7 +37,7 @@ This is a basic MERN stack application with MongoDB, Express.js, React.js, and N
     Create a `.env` file in the `server` directory and add the following:
 
     ```env
-    PORT=3001
+    PORT=3000
     MONGODB_URI=mongodb://localhost:27017/your-database-name
     ```
 
